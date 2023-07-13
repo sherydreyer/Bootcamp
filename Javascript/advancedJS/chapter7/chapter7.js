@@ -2,18 +2,18 @@
 
 
 
-// class Dog {
-//     dogName;
-//     weight;
-//     color;
-//     breed;
-//     constructor(dogName, weight, color, breed) {
-//         this.dogName = dogName;
-//         this.weight = weight;
-//         this.color = color;
-//         this.breed = breed;
-//     }
-// }
+class Dog {
+    dogName;
+    weight;
+    color;
+    breed;
+    constructor(dogName, weight, color, breed) {
+        this.dogName = dogName;
+        this.weight = weight;
+        this.color = color;
+        this.breed = breed;
+    }
+}
 
 // let dog1 = new Dog("Ketana","20kg","black","pitbull");
 // let dog2 = new Dog("Nala","5kg","brown","Pekingese");
